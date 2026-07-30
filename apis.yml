@@ -1,4 +1,16 @@
 aid: clickmeter
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/clickmeter.png
 name: ClickMeter
 description: "Monitor, compare and optimize your marketing links"
 url: https://support.clickmeter.com/hc/en-us/categories/201474986
