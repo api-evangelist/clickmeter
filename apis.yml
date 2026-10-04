@@ -39,7 +39,6 @@ apis:
   - name: ClickMeter
     description: "Monitor, compare and optimize your marketing links"
     humanURL: https://support.clickmeter.com/hc/en-us/categories/201474986
-    baseURL: https://support.clickmeter.com/hc/en-us/categories/201474986
     tags:
       - URL Shorteners
     properties:
